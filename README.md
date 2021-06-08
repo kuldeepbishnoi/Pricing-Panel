@@ -17,7 +17,6 @@ On a larger screen size the webpage look like this:
 ### On Mobile Screen
 On a smaller screen like mobiles screen the webpage look like this:
 <p align="center">
-  Pricing Panel Output
   <img src="Output/price-panel smaller screen.gif"\>
 </p>
 
