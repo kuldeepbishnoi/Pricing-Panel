@@ -21,14 +21,6 @@ On a smaller screen like mobiles screen the webpage look like this:
   <img src="Output/price-panel smaller screen.gif"\>
 </p>
 
-### Features
-This feature can sense incoming(traffic coming to ego lanes) and slow(as well as stopped) traffic ahead and urgently apply the brakes.
-<p align="center">
-  Automatic Emergency Braking System Output
-  <img src="Results_GIF/EBS.gif"\>
-</p>
-
-
 ## Installation.
 The project is tested on Chrome and developed in VS code.
 
